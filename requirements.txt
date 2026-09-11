@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+web3
+python-dotenv
+numpy
+pillow
+opencv-contrib-python
+python-multipart
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]
+bcrypt<4.0
+pyjwt
+pytesseract
+requests

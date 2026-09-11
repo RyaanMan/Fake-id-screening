@@ -1,0 +1,14 @@
+{
+  "name": "fake-id-screening-blockchain",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "node": "hardhat node",
+    "deploy": "node scripts/deploy.mjs"
+  },
+  "dependencies": {
+    "ethers": "^6.15.0",
+    "hardhat": "^3.16.0",
+    "solc": "^0.8.34"
+  }
+}
