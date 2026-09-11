@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+streamlit
+web3
+python-dotenv
+numpy
+pillow
+opencv-contrib-python
+python-multipart
